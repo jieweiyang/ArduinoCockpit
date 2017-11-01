@@ -10,3 +10,8 @@ SIOC Server From OpenCockpits
 
 http://www.opencockpits.com/
 
+
+Using community Arduino Library:
+
+Modified LedControl, using Hareware SPI.
+https://github.com/jacken/LedControl_HW_SPI
